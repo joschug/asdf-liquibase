@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+LIQUIBASE_HOME=${LIQUIBASE_HOME:-}
+if [ "$LIQUIBASE_HOME" = "" ]; then
+  export LIQUIBASE_HOME="$ASDF_INSTALL_PATH"
+fi
