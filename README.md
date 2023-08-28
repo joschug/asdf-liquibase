@@ -1,4 +1,5 @@
 # asdf-liquibase
 
+`asdf plugin add liquibase git@github.com:joschug/asdf-liquibase.git`
 
-`asdf plugin add liquibase git@github.com:socrata/asdf-liquibase.git`
+https://github.com/liquibase/liquibase
